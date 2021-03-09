@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot tests test styles 1`] = `
+<DocumentFragment>
+  <div
+    class="makeStyles-root-1"
+    data-testid="news"
+  >
+    <div
+      class="MuiPaper-root MuiCard-root makeStyles-root-6 MuiPaper-elevation8 MuiPaper-rounded"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root"
+        style="width: 100%; height: 100%;"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-10"
+          style="padding: 12px; height: 100%;"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-11 makeStyles-box-7"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-12"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-13"
+                style="display: flex; align-items: center;"
+              >
+                <img
+                  alt="news item thumbnail"
+                  src="https://www.google.com/s2/favicons?domain=https://material-ui.com"
+                />
+                <h6
+                  class="MuiTypography-root makeStyles-website-9 MuiTypography-h6"
+                >
+                  material-ui
+                </h6>
+              </div>
+              <span
+                class="MuiTypography-root MuiTypography-caption"
+              >
+                NaN undefined NaN
+              </span>
+            </div>
+            <img
+              class="MuiCardMedia-root makeStyles-cover-8 MuiCardMedia-media MuiCardMedia-img"
+              data-testid="cardmedia"
+              height="140"
+              src="defaultWaterPicture.jpg"
+            />
+          </div>
+          <p
+            class="MuiTypography-root MuiTypography-body2"
+          >
+            water
+          </p>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
