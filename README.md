@@ -1,4 +1,11 @@
-# endor
+# Water usage react
+
+A simple react app that displays news regarding the Earth's water, water usage by country and a quiz.  
+This was crearted for the course Agile software project management - DIT257
+
+## Demo
+
+[![Endor preview](http://i3.ytimg.com/vi/r_L4iqSjTN4/hqdefault.jpg)](https://www.youtube.com/watch?v=r_L4iqSjTN4)
 
 ## Running our project
 
